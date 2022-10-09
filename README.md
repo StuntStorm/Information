@@ -8,5 +8,5 @@
 |  Dinner will be server  | Inaugural Ceremony : 3:30 - 4:30 (Instructions on Practice Contest)  |  2:00 - 3:00 : Snacks and High Tea / Coffee   |
 |  Dinner will be server  | Inaugural Ceremony : 3:30 - 4:30 (Instructions on Practice Contest)  |  3:30 - 4:30 : Problems discussion by Judges   |
 |  -  | Practice Contest : 4:30 - 6:00 |  Awards & Closing Ceremony  |
-|  -  | Banquet Dinner : 7:00 - 9:00 |  -The End-   |
+|  -  | Banquet Dinner : 7:00 - 9:00 |  -The End ( waiting period starts for december 2022 ICPC)-   |
 
