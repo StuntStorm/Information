@@ -1,3 +1,4 @@
+Unfortunately, the event has come to an end. Thanks to everyone who has made this huge success. See you next time! 
 
 | October 6th | October 7th | October 8th | 
 | :-----: | :-: | :---: | 
